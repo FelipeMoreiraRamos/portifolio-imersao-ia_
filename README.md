@@ -40,3 +40,60 @@ O programa possui várias etapas de processamento. Pode demorar até 2 hora para
 [36:52 - 36:58] Um susto repentino com um objeto caindo faz a VTuber gritar e se encolher. Ela ri do próprio susto e comenta que foi uma "armadilha".
 [37:50 - 38:44] A VTuber se assusta com sons de passos e pingos, além de uma figura fantasmagórica que aparece brevemente. Ela demonstra medo e tensão, mas tenta se manter calma.
 ```
+
+# Possíveis Temas
+Aqui está uma lista detalhada de temas, eventos ou momentos que a IA deve procurar, bem como elementos visuais e pistas de áudio importantes para cada tipo de conteúdo:
+
+### 1. **Comentário**
+
+- **Temas**: Opiniões fortes, análises críticas, debates.
+- **Elementos Visuais**: Expressões faciais intensas, uso de gráficos ou clipes para reforçar pontos.
+- **Pistas de Áudio**: Mudanças no tom de voz para enfatizar pontos, música de fundo durante transições.
+
+### 2. **Podcast**
+
+- **Temas**: Tópicos controversos, histórias pessoais, entrevistas com convidados.
+- **Elementos Visuais**: Reações dos participantes, interações com objetos ou tecnologia.
+- **Pistas de Áudio**: Risadas, pausas significativas, efeitos sonoros especiais.
+
+### 3. **Acadêmico**
+
+- **Temas**: Explicações de conceitos complexos, demonstrações práticas, perguntas e respostas.
+- **Elementos Visuais**: Slides, demonstrações experimentais, anotações manuscritas.
+- **Pistas de Áudio**: Termos técnicos, citações de estudos, perguntas da audiência.
+
+### 4. **How-to**
+
+- **Temas**: Passo a passo crítico, dicas e truques, solução de problemas comuns.
+- **Elementos Visuais**: Demonstração de técnicas, close-ups em ações específicas.
+- **Pistas de Áudio**: Instruções claras e concisas, feedback sonoro de ferramentas ou materiais.
+
+### 5. **Comédia**
+
+- **Temas**: Piadas, sketches, reações a vídeos engraçados.
+- **Elementos Visuais**: Expressões faciais cômicas, gestos exagerados.
+- **Pistas de Áudio**: Risadas, timing de piadas, música alegre.
+
+### 6. **Comentário de Esporte**
+
+- **Temas**: Momentos decisivos do jogo, análise tática, reações pós-jogo.
+- **Elementos Visuais**: Repetições de jogadas importantes, gráficos de estatísticas.
+- **Pistas de Áudio**: Entusiasmo na narração, comentários de especialistas.
+
+### 7. **Notícias**
+
+- **Temas**: Notícias de última hora, atualizações de eventos em andamento, entrevistas.
+- **Elementos Visuais**: Clipes de notícias, mapas e infográficos.
+- **Pistas de Áudio**: Tons urgentes, mudanças na música de fundo.
+
+### 8. **Vlog**
+
+- **Temas**: Eventos diários, viagens, experiências pessoais.
+- **Elementos Visuais**: Locais visitados, interações com pessoas.
+- **Pistas de Áudio**: Música de fundo apropriada, diálogo pessoal.
+
+### 9. **Gaming**
+
+- **Temas**: Momentos emocionantes de jogo, tutoriais, reviews de jogos.
+- **Elementos Visuais**: Gameplay destacado, reações do jogador.
+- **Pistas de Áudio**: Comentários sobre estratégias, sons do jogo.
