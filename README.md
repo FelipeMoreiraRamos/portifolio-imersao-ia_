@@ -28,13 +28,15 @@ O programa possui várias etapas de processamento. Pode demorar até 2 hora para
 - Descrição: É um vídeo de um vtuber jogando jogo de terror em primeira pessoa. Destaque reações do vtuber e momentos de sustos. O resumo deve ter no máximo 5 minutos.
 - Resposta: 
 ```
-[00:01:23, 00:01:55] VTuber comenta sobre a estratégia do jogo.
-[03:13, 03:19] VTuber expressa nervosismo e ansiedade antes de iniciar o jogo.
-[04:41, 04:45] VTuber explica sua condição de "enjoo de movimento" e as adaptações feitas no jogo para minimizar o desconforto.
-[07:58, 08:00] VTuber faz uma expressão de tristeza em antecipação aos sustos do jogo.
-[15:16, 15:21] Primeiro susto com som alto e figura repentina. A VTuber grita e demonstra surpresa.
-[19:42, 19:47] Segundo susto com objeto caindo e som alto. A VTuber expressa mais medo e tensão.
-[25:29, 25:35] Terceiro susto com efeito sonoro inesperado. A VTuber se assusta bastante e solta um grito.
-[36:52, 36:58] Quarto susto com queda repentina de objetos. VTuber grita e demonstra frustração com a armadilha.
-[39:26, 39:30] VTuber se surpreende com a beleza de um cenário inesperado dentro do jogo.
+[03:13 - 03:23] A VTuber comenta sobre o desafio de jogar um jogo de terror devido a sua "motion sickness" e ambientes escuros. Ela expressa preocupação, mas se mostra determinada a jogar pelo bem das outras VTubers envolvidas no projeto.
+[07:13 - 07:22] A VTuber revela que, diferentemente do web mangá, ela será o fantasma que assombra os jogadores. Ela demonstra animação com a ideia e curiosidade sobre as reações dos jogadores.
+[09:53 - 10:03] A VTuber se confunde com a história do jogo, que difere do web mangá. Ela demonstra surpresa e tenta entender o novo contexto da narrativa.
+[14:34 - 14:59] A VTuber ouve batidas na porta e sons estranhos, ficando visivelmente tensa e assustada. Ela questiona se há alguém ali e demonstra alívio quando percebe que não há ninguém.
+[15:16 - 15:20] Um susto repentino com um barulho alto faz a VTuber gritar e se assustar. Ela demonstra frustração e comenta que odeia esse tipo de susto "armadilha".
+[19:42 - 19:47] Outro susto repentino com um relógio caindo faz a VTuber gritar novamente. Ela ri do próprio susto e comenta que fará uma compilação desses momentos para um vídeo.
+[25:29 - 25:35] A VTuber se assusta com um som alto e repentino vindo dos alto-falantes. Ela se encolhe na cadeira e demonstra medo.
+[26:21 - 26:30] Uma porta se abre sozinha, assustando a VTuber. Ela se questiona se era a Tokino Sora (outra VTuber) e demonstra alívio ao perceber que não era.
+[27:50 - 28:36] A VTuber se assusta com um terremoto e objetos caindo. Ela demonstra preocupação e observa os danos causados pelo tremor.
+[36:52 - 36:58] Um susto repentino com um objeto caindo faz a VTuber gritar e se encolher. Ela ri do próprio susto e comenta que foi uma "armadilha".
+[37:50 - 38:44] A VTuber se assusta com sons de passos e pingos, além de uma figura fantasmagórica que aparece brevemente. Ela demonstra medo e tensão, mas tenta se manter calma.
 ```
