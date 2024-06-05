@@ -1,7 +1,7 @@
 ![Logo design for 'Viral Hit'](logo.png)
 
 # Viral Hit
-Criei clipes virais para os seus vídeos longos do Youtube! Este projeto tem como objetivo permitir que qualquer pessoa consiga encontrar os melhores momentos de seus vídeos longos para postar clipes em suas redes sociais. 
+Crie clipes virais para os seus vídeos longos do Youtube! Este projeto tem como objetivo permitir que qualquer pessoa consiga encontrar os melhores momentos de seus vídeos longos para postar clipes em suas redes sociais. 
 
 Não possui um vídeo para testar? Use esse [aqui](https://www.youtube.com/live/rP-zXlQYCKY)
 
